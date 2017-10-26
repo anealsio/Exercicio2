@@ -1,0 +1,1 @@
+Exemplos básicos dados no livro "Android Essencial com Kotlin" de Ricardo Lecheta. Capítulo 2 - Introdução ao kotlin.
